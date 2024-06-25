@@ -1,0 +1,6 @@
+"NSCalendarsUsageDescription" = "Fuse nutzt diese Kalender-Erlaubnisanfrage nicht.";
+"NSCameraUsageDescription" = "Unity nutzt diese Kamera-Erlaubnisanfrage nicht.";
+"NSLocationWhenInUseUsageDescription" = "Unity nutzt diese Standort-Erlaubnisanfrage nicht.";
+"NSPhotoLibraryAddUsageDescription" = "Wir würden gerne Bildschirmfotos in deiner Foto-Bibliothek speichern.";
+"NSPhotoLibraryUsageDescription" = "Wir würden gerne Bildschirmfotos in deiner Foto-Bibliothek speichern.";
+"NSUserTrackingUsageDescription" = "Deine Daten werden für personalisierte Werbung genutzt.";
